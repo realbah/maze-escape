@@ -1,6 +1,12 @@
 # Maze Escape - 3D Maze Escape Game
 
+...
+
 This project is a simple and engaging 3D maze escape game developed using Three.js.
+
+## Gameplay Preview
+
+![Maze Escape Gameplay](./maze.gif)
 
 ## Features
 
