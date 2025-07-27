@@ -29,3 +29,17 @@ npm install
 
 # Start the development server
 npm run dev
+
+```
+The game will be available at the local server address (usually http://localhost:5173) in your browser.
+
+## How to Play
+
+- Use **WASD** keys to move the blue cube (player).
+- Colliding with walls reduces your health.
+- The game ends when your health reaches zero.
+- Reach the green exit area to win the game.
+
+## License
+
+This project is licensed under the MIT License.
