@@ -25,7 +25,7 @@ This project is a simple and engaging 3D maze escape game developed using Three.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/maze-escape.git
+git clone https://github.com/realbah/maze-escape.git
 
 # Navigate into the project directory
 cd maze-escape
